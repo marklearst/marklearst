@@ -25,8 +25,8 @@ React (19), TypeScript, Tailwind CSS (4), Storybook (9), Next.js (15), Framer Mo
   → Clinical glucose + A1C utils in TypeScript  
 ⌚ [glucoseiq](https://github.com/marklearst/glucoseiq)  
   → Real-time CGM app for Apple Watch (SwiftUI)  
-🎮 [skydio-controller-widget](https://github.com/marklearst/skydio-controller-widget)  
-  → Motion UI + joystick controls in Storybook (React components)
+🎮 [skydio-autonomy-widget](https://github.com/marklearst/skydio-autonomy-widget)  
+  → Storybook (React components) + TypeScript + Tailwind CSS
 
 ```shell
 > resume -f highlights.pdf
