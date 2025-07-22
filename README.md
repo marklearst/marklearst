@@ -29,6 +29,11 @@ React (19), TypeScript, Tailwind CSS (4), Storybook (9), Next.js (15), Framer Mo
   → Storybook (React components) + TypeScript + Tailwind CSS
 
 ```shell
+> hire-me  
+👀 evaluating offers
+```
+
+```shell
 > resume -f highlights.pdf
 - Architected multi-brand design systems (React + Figma)
 - Wrote token pipelines used by Fortune 100 teams
@@ -48,7 +53,7 @@ Dev-Mode JSON:    ✔️ supported
 ```shell
 > current-focus
 - Dropping clean motion-driven components
-- Building dev-mode tools for real teams
+- I build the parts that connect design to code
 - Creating systems that survive after handoff
 ```
 
@@ -60,7 +65,7 @@ Dev-Mode JSON:    ✔️ supported
 🐙 github.com/marklearst
 ```
 
-```
+```md
 # Code > Vibes
 # Motion > Gimmicks
 # Systems > One-offs
