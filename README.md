@@ -38,10 +38,10 @@ React (19), TypeScript, Tailwind CSS (4), Storybook (9), Next.js (15), Framer Mo
 ```
 
 ```shell
-> npm view @figma-vars/hooks
+> npm install @figma-vars/hooks
 Weekly Downloads: 🟢 climbing
-Offline Mode:     ✔️
 Figma Paywall:    💪 bypassed
+Offline Mode:     ✔️ feature
 Dev-Mode JSON:    ✔️ supported
 ```
 
