@@ -18,7 +18,7 @@ React (19), TypeScript, Tailwind CSS (4), Storybook (9), Next.js (15), Framer Mo
 ```
 
 🧩 [@figma-vars/hooks](https://github.com/marklearst/figma-vars-hooks)  
-  → React hooks for Figma Dev Mode tokens  
+  → React hooks for Figma Variables  
 ♿ [a11y-companion-widget](https://github.com/marklearst/a11y-companion-widget)  
   → Figma widget for real accessibility roles  
 🧮 [diabetic-utils](https://github.com/marklearst/diabetic-utils)  
