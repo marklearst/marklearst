@@ -1,16 +1,68 @@
-## Hi there 👋
+```shell
+> marklearst
+```
 
-<!--
-**marklearst/marklearst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```shell
+> whoami
+Senior UI Engineer with a design brain and a coder’s edge
+I architect React UI components, build design systems, and wire up motion
+```
 
-Here are some ideas to get you started:
+```shell
+> tech-stack
+React (19), TypeScript, Tailwind CSS (4), Storybook (9), Next.js (15), Framer Motion, GSAP, SwiftUI, Figma Dev Mode, a11y / WCAG 2.2 AA
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```shell
+> latest-projects
+```
+
+🧩 [@figma-vars/hooks](https://github.com/marklearst/figma-vars-hooks)  
+  → React hooks for Figma Dev Mode tokens  
+♿ [a11y-companion-widget](https://github.com/marklearst/a11y-companion-widget)  
+  → Figma widget for real accessibility roles  
+🧮 [diabetic-utils](https://github.com/marklearst/diabetic-utils)  
+  → Clinical glucose + A1C utils in TypeScript  
+⌚ [glucoseiq](https://github.com/marklearst/glucoseiq)  
+  → Real-time CGM app for Apple Watch (SwiftUI)  
+🎮 [skydio-controller-widget](https://github.com/marklearst/skydio-controller-widget)  
+  → Motion UI + joystick controls in Storybook (React components)
+
+```shell
+> resume -f highlights.pdf
+- Architected multi-brand design systems (React + Figma)
+- Wrote token pipelines used by Fortune 100 teams
+- Audited accessibility across enterprise-scale apps
+- Built polished UI with real motion and zero fluff
+- Docs, async workflows, and strong dev/design handoff
+```
+
+```shell
+> npm view @figma-vars/hooks
+Weekly Downloads: 🟢 climbing
+Offline Mode:     ✔️
+Figma Paywall:    💪 bypassed
+Dev-Mode JSON:    ✔️ supported
+```
+
+```shell
+> current-focus
+- Dropping clean motion-driven components
+- Building dev-mode tools for real teams
+- Creating systems that survive after handoff
+```
+
+```shell
+> contact --direct
+🌐 marklearst.com
+👨🏻‍💻 linkedin.com/in/marklearst
+📬 github@marklearst.com
+🐙 github.com/marklearst
+```
+
+```
+# Code > Vibes
+# Motion > Gimmicks
+# Systems > One-offs
+
+No hype. Just shipping.
