@@ -2,12 +2,12 @@
 > marklearst
 ```
 
-```shell
+```
 > whoami
 Senior UI Engineer  
 Coder at Core, Think Like a Designer  
 
-Architects React UI Components in Storybook, Builds Design Systems, Wires Up Motion  
+Architects React UI Components with Storybook, Builds Design Systems, Wires Up Motion  
 ❤️ Next.js
 ```
 
