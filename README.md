@@ -4,8 +4,11 @@
 
 ```shell
 > whoami
-Senior UI Engineer with a design brain and a coder’s edge
-I architect React UI components, build design systems, and wire up motion
+Senior UI Engineer  
+Coder at Core, Think Like a Designer  
+
+Architects React UI Components in Storybook, Builds Design Systems, Wires Up Motion  
+❤️ Next.js
 ```
 
 ```shell
