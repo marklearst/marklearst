@@ -1,31 +1,31 @@
 ```shell
-> marklearst
+$ marklearst
 ```
 
 ```shell
-> whoami
-Senior UI Engineer
-Coder at Core, Think Like a Designer
+$ whoami
+> Senior UI Engineer • React Component Architect • Design Systems Specialist
+> Coder at Core, Think Like a Designer
 ```
 
 ```shell
-> howiwork
-$ architect React component libraries and design systems
-$ favorite router React framework of choice: Next.js
-$ build token pipelines and scalable CSS architecture
-$ ship accessibility-first UIs that pass audits and delight users
-$ async collab—docs, code, and design in sync
-$ create microinteractions and SVG animations that feel alive
-$ CI/CD everything—zero manual deploys
+$ howiwork
+> architect React component libraries and design systems
+> favorite router React framework of choice: Next.js
+> build token pipelines and scalable CSS architecture
+> ship accessibility-first UIs that pass audits and delight users
+> async collab—docs, code, and design in sync
+> create microinteractions and SVG animations that feel alive
+> CI/CD everything—zero manual deploys
 ```
 
 ```shell
-> stack
-React (v19), TypeScript, Tailwind CSS (4), Storybook (9), Next.js (15), Framer Motion, GSAP, SwiftUI, Figma Dev Mode, a11y / WCAG 2.2 AA
+$ stack
+> React (v19), TypeScript, Tailwind CSS (4), Storybook (9), Next.js (15), Framer Motion, GSAP, SwiftUI, Figma Dev Mode, a11y / WCAG 2.2 AA
 ```
 
 ```shell
-> latest-projects
+$ projects --lastest
 ```
 
 - 🧩 [@figma-vars/hooks](https://github.com/marklearst/figma-vars-hooks)
@@ -38,41 +38,33 @@ React (v19), TypeScript, Tailwind CSS (4), Storybook (9), Next.js (15), Framer M
   → Real-time CGM app for Apple Watch (SwiftUI)
 
 ```shell
-> hire-me
-👀 evaluating offers
+$ hireme
+> 👀 evaluating offers
 ```
 
 ```shell
-> resume -h highlights
-React 19 (including Server Components)
-TypeScript (advanced types, generics, type safety)
-Next.js (15) & Vite (modern React frameworks)
-Tailwind CSS 4 (utility-first CSS architecture)
-Design Systems (Figma Variables, Tokens, Storybook, ShadCN)
-Framer Motion & GSAP (motion-driven UI, animation)
-Accessibility (WCAG 2.2 AA, a11y audits, ARIA roles)
-Async Workflows (docs, code, design handoff, CI/CD)
-AI & Automation (GitHub Copilot, OpenAI API, AI-driven UI tools as tools not vibes)
-API Integration (REST, GraphQL, AWS, Server Actions)
+$ resume -h highlights
+> React 19 (including Server Components)
+> TypeScript (advanced types, generics, type safety)
+> Next.js (15) & Vite (modern React frameworks)
+> Tailwind CSS 4 (utility-first CSS architecture)
+> Design Systems (Figma Variables, Tokens, Storybook, ShadCN)
+> Framer Motion & GSAP (motion-driven UI, animation)
+> Accessibility (WCAG 2.2 AA, a11y audits, ARIA roles)
+> Async Workflows (docs, code, design handoff, CI/CD)
+> AI & Automation (GitHub Copilot, OpenAI API, AI-driven UI tools as tools not vibes)
+> API Integration (REST, GraphQL, AWS, Server Actions)
 ```
 
 ```shell
-> npm install @figma-vars/hooks
-Weekly Downloads: 🟢 climbing
-Figma Paywall:    💪 bypassed
-Offline Mode:     ✔️ feature
-Dev-Mode JSON:    ✔️ supported
+$ focus --current
+> shipping motion-driven React components designers actually want to use
+> building the glue between design and code—no handoff headaches
+> creating systems that last after handoff, not just launch day
 ```
 
 ```shell
-> current-focus
-$ shipping motion-driven React components designers actually want to use
-$ building the glue between design and code—no handoff headaches
-$ creating systems that last after handoff, not just launch day
-```
-
-```shell
-> contact --direct
+$ contact --direct
 🌐 marklearst.com
 👨🏻‍💻 linkedin.com/in/marklearst
 📬 github@marklearst.com
