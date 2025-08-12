@@ -10,25 +10,18 @@ Coder at Core, Think Like a Designer
 
 ```shell
 > howiwork
-Architect React UI Components with Storybook, Builds Design Systems, Wires Up Motion
-
-❤️ Next.js
-```
-
-```shell
-> slick-tricks
+$ architect React component libraries and design systems
+$ favorite router React framework of choice: Next.js
+$ build token pipelines and scalable CSS architecture
 $ ship accessibility-first UIs that pass audits and delight users
 $ async collab—docs, code, and design in sync
-$ build systems that survive after launch, not just demo day
 $ create microinteractions and SVG animations that feel alive
-$ bypass paywalls and build offline-first features
 $ CI/CD everything—zero manual deploys
-$ use AI to speed up design/dev workflows
 ```
 
 ```shell
-> tech-stack
-React (19), TypeScript, Tailwind CSS (4), Storybook (9), Next.js (15), Framer Motion, GSAP, SwiftUI, Figma Dev Mode, a11y / WCAG 2.2 AA
+> stack
+React (v19), TypeScript, Tailwind CSS (4), Storybook (9), Next.js (15), Framer Motion, GSAP, SwiftUI, Figma Dev Mode, a11y / WCAG 2.2 AA
 ```
 
 ```shell
@@ -51,34 +44,16 @@ React (19), TypeScript, Tailwind CSS (4), Storybook (9), Next.js (15), Framer Mo
 
 ```shell
 > resume -h highlights
-// What I actually do
-$ ship multi-brand design systems (React + Figma) that get used, not just demoed
-$ build token pipelines Fortune 100 teams rely on
-$ audit accessibility for real users, not just checklists
-$ deliver UI with motion that feels good, not just flashy
-$ write docs and async workflows that make handoff painless
-// Slick tricks
-$ automate Figma-to-React handoff with custom hooks
-$ refactor legacy UI for speed and maintainability
-$ debug and optimize for real-world performance
-$ ship accessibility-first UIs that pass audits and delight users
-$ async collab—docs, code, and design in sync
-$ build systems that survive after launch, not just demo day
-$ create microinteractions and SVG animations that feel alive
-$ bypass paywalls and build offline-first features
-$ CI/CD everything—zero manual deploys
-$ use AI to speed up design/dev workflows
-// Signal tricks
-$ automate Figma-to-React handoff with custom hooks
-$ refactor legacy UI for speed and maintainability
-$ debug and optimize for real-world performance
-$ ship accessibility-first UIs that pass audits and delight users
-$ async collab—docs, code, and design stay in sync
-$ build systems that survive after launch, not just demo day
-$ create microinteractions and SVG animations that feel alive
-$ bypass paywalls and build offline-first features
-$ CI/CD everything—zero manual deploys
-$ use AI to speed up design/dev workflows
+React 19 (including Server Components)
+TypeScript (advanced types, generics, type safety)
+Next.js (15) & Vite (modern React frameworks)
+Tailwind CSS 4 (utility-first CSS architecture)
+Design Systems (Figma Variables, Tokens, Storybook, ShadCN)
+Framer Motion & GSAP (motion-driven UI, animation)
+Accessibility (WCAG 2.2 AA, a11y audits, ARIA roles)
+Async Workflows (docs, code, design handoff, CI/CD)
+AI & Automation (GitHub Copilot, OpenAI API, AI-driven UI tools as tools not vibes)
+API Integration (REST, GraphQL, AWS, Server Actions)
 ```
 
 ```shell
@@ -91,7 +66,6 @@ Dev-Mode JSON:    ✔️ supported
 
 ```shell
 > current-focus
-// Current focus
 $ shipping motion-driven React components designers actually want to use
 $ building the glue between design and code—no handoff headaches
 $ creating systems that last after handoff, not just launch day
