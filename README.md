@@ -1,9 +1,8 @@
-```shell
-$ marklearst
-```
+<!-- README: Terminal vibes. All signal, no noise. -->
 
 ```shell
 $ whoami
+> marklearst
 > Senior UI Engineer • React Component Architect • Design Systems Specialist
 > Coder at Core, Think Like a Designer
 ```
