@@ -10,7 +10,7 @@ $ whoami
 ```shell
 $ howiwork
 > architect React component libraries and design systems
-> favorite router React framework of choice: Next.js
+> favorite React router meta-framework of choice: Next.js
 > build token pipelines and scalable CSS architecture
 > ship accessibility-first UIs that pass audits and delight users
 > async collab—docs, code, and design in sync
