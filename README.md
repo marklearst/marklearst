@@ -9,22 +9,67 @@ $ whoami
 
 ```shell
 $ howiwork
-> architect React component libraries and design systems
-> favorite React router meta-framework of choice: Next.js
+> architect and own React component libraries and design systems
+> React meta-frameworks: TanStack Start, Next.js (prior production experience)
 > build token pipelines and scalable CSS architecture
 > ship accessibility-first UIs that pass audits and delight users
-> async collab—docs, code, and design in sync
+> async collab (docs, code, and design in sync)
 > create microinteractions and SVG animations that feel alive
-> CI/CD everything—zero manual deploys
+> CI/CD everything, zero manual deploys
 ```
 
 ```shell
-$ stack
-> React (v19), TypeScript, Tailwind CSS (4), Storybook (9), Next.js (15), Framer Motion, GSAP, SwiftUI, Figma Dev Mode, a11y / WCAG 2.2 AA
+$ stack --skills
+
+Frontend:
+> React 19.2+ (Server Components, Server Actions)
+> TypeScript, JavaScript, Tailwind CSS
+> TanStack Start, Next.js, Remix
+> Zustand, Context API
+
+Design Systems:
+> Storybook 10
+> Design tokens and Style Dictionary
+> Figma (Variables, Dev Mode, Widgets)
+> shadcn/ui, Radix UI
+> Token automation and governance
+
+Accessibility:
+> WCAG 2.2 AA
+> ARIA patterns and semantic HTML
+> Axe, Playwright
+> Accessibility audits and usability testing
+
+UI and Motion:
+> GSAP
+> Motion (Framer Motion)
+> CSS animation
+> SVG interactions and microinteractions
+
+Tooling and DX:
+> Node.js, pnpm
+> Vite, Vitest
+> Vercel, AWS
+> GitHub Actions, CI/CD
+> Cursor, Claude Code CLI
+
+Data and APIs:
+> Zod
+> TanStack Query, SWR
+> RESTful APIs and webhooks
+> API Routes
+> Postgres
+> MCP servers (Anthropic certified)
+
+Architecture:
+> Component library architecture
+> Design system and token governance
+> Cross brand integration
+> Documentation and handoff pipelines
 ```
 
 ```shell
-$ projects --lastest
+$ projects --latest
 ```
 
 - 🧩 [@figma-vars/hooks](https://github.com/marklearst/figma-vars-hooks)
@@ -42,23 +87,9 @@ $ hireme
 ```
 
 ```shell
-$ resume -h highlights
-> React 19 (including Server Components)
-> TypeScript (advanced types, generics, type safety)
-> Next.js (15) & Vite (modern React frameworks)
-> Tailwind CSS 4 (utility-first CSS architecture)
-> Design Systems (Figma Variables, Tokens, Storybook, ShadCN)
-> Framer Motion & GSAP (motion-driven UI, animation)
-> Accessibility (WCAG 2.2 AA, a11y audits, ARIA roles)
-> Async Workflows (docs, code, design handoff, CI/CD)
-> AI & Automation (GitHub Copilot, OpenAI API, AI-driven UI tools as tools not vibes)
-> API Integration (REST, GraphQL, AWS, Server Actions)
-```
-
-```shell
 $ focus --current
 > shipping motion-driven React components designers actually want to use
-> building the glue between design and code—no handoff headaches
+> building the glue between design and code (no handoff headaches)
 > creating systems that last after handoff, not just launch day
 ```
 
