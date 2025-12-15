@@ -1,5 +1,9 @@
 <!-- README: Terminal vibes. All signal, no noise. -->
 
+Senior UI Engineer specializing in React design systems and accessibility. Built Aurora at GM serving 5 brands with 60% component reuse. Open-source toolsmith—I build the stuff designers and developers actually want to use.
+
+---
+
 ```shell
 $ whoami
 > marklearst
@@ -10,12 +14,18 @@ $ whoami
 ```shell
 $ howiwork
 > architect and own React component libraries and design systems
-> React meta-frameworks: TanStack Start, Next.js (prior production experience)
 > build token pipelines and scalable CSS architecture
-> ship accessibility-first UIs that pass audits and delight users
-> async collab (docs, code, and design in sync)
+> ship accessibility-first UIs that pass real audits
 > create microinteractions and SVG animations that feel alive
-> CI/CD everything, zero manual deploys
+> build open-source tools designers and developers actually use
+```
+
+```shell
+$ notable
+> Arctic Code Vault Contributor
+> a11y-companion: 200+ active Figma users
+> W3C Design Tokens Community Group contributor
+> Anthropic certified: Claude Code + MCP Servers
 ```
 
 ```shell
@@ -59,7 +69,7 @@ Data and APIs:
 > RESTful APIs and webhooks
 > API Routes
 > Postgres
-> MCP servers (Anthropic certified)
+> MCP servers
 
 Architecture:
 > Component library architecture
@@ -69,7 +79,7 @@ Architecture:
 ```
 
 ```shell
-$ projects --latest
+$ projects --shipped
 ```
 
 - 🧩 [@figma-vars/hooks](https://github.com/marklearst/figma-vars-hooks)
@@ -78,12 +88,17 @@ $ projects --latest
   → Figma widget for real accessibility roles
 - 🧮 [diabetic-utils](https://github.com/marklearst/diabetic-utils)
   → Clinical glucose + A1C utils in TypeScript
+  
+```shell
+$ projects --building
+```
+
 - ⌚ [glucoseiq](https://github.com/marklearst/glucoseiq)
   → Real-time CGM app for Apple Watch (SwiftUI)
 
 ```shell
 $ hireme
-> 👀 evaluating offers
+> open to opportunities
 ```
 
 ```shell
