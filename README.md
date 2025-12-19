@@ -1,6 +1,6 @@
 <!-- README: Terminal vibes. All signal, no noise. -->
 
-Senior UI Engineer specializing in React design systems and accessibility. Built Aurora at GM serving 5 brands with 60% component reuse. Open-source toolsmith—I build the stuff designers and developers actually want to use.
+Senior UI Engineer specializing in React design systems and accessibility. Built Aurora at GM serving 5 brands with 60% component reuse. Open-source toolsmith 🧰 I build the stuff designers and developers actually want to use.
 
 ---
 
