@@ -88,6 +88,8 @@ $ projects --shipped
   → Figma widget for real accessibility roles
 - 🧮 [diabetic-utils](https://github.com/marklearst/diabetic-utils)
   → Clinical glucose + A1C utils in TypeScript
+- 📋 [variables-contract](https://github.com/marklearst/variables-contract)
+  → Design variables specification and governance standard. DTCG 2025.10 compliant
   
 ```shell
 $ projects --building
