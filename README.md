@@ -95,7 +95,7 @@ $ projects --shipped
 $ projects --building
 ```
 
-- ⌚ [glucoseiq](https://github.com/marklearst/glucoseiq)
+- ⌚ glucoseiq - private
   → Real-time CGM app for Apple Watch (SwiftUI)
 
 ```shell
