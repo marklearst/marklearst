@@ -15,17 +15,21 @@ tagline: Coder to the core, think like a designer.
 ```
 
 ```markdown
-Senior Design Engineer who builds accessible design systems and React component libraries that teams actually want to use.
+Senior Design Engineer who builds accessible design systems and React
+component libraries that teams actually want to use.
 
-At GM, I helped architect Aurora across 4 brands, drove meaningful component reuse, and supported WCAG 2.2 AA compliance. I also trained 50 plus engineers and designers on the system.
+At GM, I helped architect Aurora across 4 brands, drove meaningful
+component reuse, and supported WCAG 2.2 AA compliance. I also trained
+50 plus engineers and designers on the system.
 
 I ship open source tools with real adoption:
-• a11y Companion, Figma widget for practical accessibility checks  
-• FigmaVars Hooks, React hooks for working with Figma Variables exports  
-• Diabetic Utils, TypeScript utilities for glucose and A1C related calculations  
+• a11y Companion, Figma widget for practical accessibility checks
+• FigmaVars Hooks, React hooks for working with Figma Variables exports
+• Diabetic Utils, TypeScript utilities for glucose and A1C related calculations
 • Variable Design Standard, spec driven token governance work
 
-I build the glue between Figma and production: tight APIs, automated pipelines, drift resistant systems that hold up long after launch.
+I build the glue between Figma and production: tight APIs, automated
+pipelines, drift resistant systems that hold up long after launch.
 ```
 
 ```
@@ -47,9 +51,12 @@ I build the glue between Figma and production: tight APIs, automated pipelines, 
 ```
 
 ```markdown
-I develop with agentic workflows: Claude Code for architecture and validation, Cursor for implementation. Subagent orchestration, CLAUDE.md guardrails, MCP servers for context.
+I develop with agentic workflows: Claude Code for architecture and
+validation, Cursor for implementation. Subagent orchestration,
+CLAUDE.md guardrails, MCP servers for context.
 
-I have shipped portfolio work, component libraries, and OSS tooling using this stack. The future is hybrid.
+I have shipped portfolio work, component libraries, and OSS tooling
+using this stack. The future is hybrid.
 ```
 
 ```
@@ -82,7 +89,7 @@ I have shipped portfolio work, component libraries, and OSS tooling using this s
 ```
 
 ```markdown
-Portfolio: https://www.marklearst.com
-LinkedIn: https://linkedin.com/in/marklearst
-VDS Spec: https://variable-design-standard.vercel.app
+- Portfolio: https://www.marklearst.com
+- LinkedIn: https://linkedin.com/in/marklearst
+- VDS Spec: https://variable-design-standard.vercel.app
 ```
