@@ -1,126 +1,94 @@
-<!-- README: Terminal vibes. All signal, no noise. -->
-
-Senior UI Engineer specializing in React design systems and accessibility. Built Aurora at GM serving 5 brands with 60% component reuse. Open-source toolsmith 🧰 I build the stuff designers and developers actually want to use.
-
----
-
-```shell
-$ whoami
-> marklearst
-> Senior UI Engineer • React Component Architect • Design Systems Specialist
-> Coder at Core, Think Like a Designer
+```
+~/github/marklearst on main ✓
+❯ whoami
 ```
 
-```shell
-$ howiwork
-> architect and own React component libraries and design systems
-> build token pipelines and scalable CSS architecture
-> ship accessibility-first UIs that pass real audits
-> create microinteractions and SVG animations that feel alive
-> build open-source tools designers and developers actually use
+```yaml
+name: Mark Learst
+role: Senior Design Engineer
+focus: Design Systems, DX Tooling, React, TypeScript, Agentic Workflows, OSS
+tagline: Coder to the core, think like a designer.
 ```
 
-```shell
-$ notable
-> Arctic Code Vault Contributor
-> a11y-companion: 200+ active Figma users
-> W3C Design Tokens Community Group contributor
-> Anthropic certified: Claude Code + MCP Servers
+```
+❯ cat about.md
 ```
 
-```shell
-$ stack --skills
+```markdown
+Senior Design Engineer who builds accessible design systems and React
+component libraries that teams actually want to use.
 
-Frontend:
-> React 19.2+ (Server Components, Server Actions)
-> TypeScript, JavaScript, Tailwind CSS
-> TanStack Start, Next.js, Remix
-> Zustand, Context API
+At GM, I architected Aurora serving 4 brands with 60% component reuse
+and WCAG 2.2 AA compliance. Trained 50+ engineers and designers.
 
-Design Systems:
-> Storybook 10
-> Design tokens and Style Dictionary
-> Figma (Variables, Dev Mode, Widgets)
-> shadcn/ui, Radix UI
-> Token automation and governance
+I ship open-source tools with real adoption:
+→ a11y Companion (200+ users)
+→ FigmaVars Hooks
+→ Diabetic Utils
+→ Variable Design Standard (spec-driven token governance)
 
-Accessibility:
-> WCAG 2.2 AA
-> ARIA patterns and semantic HTML
-> Axe, Playwright
-> Accessibility audits and usability testing
-
-UI and Motion:
-> GSAP
-> Motion (Framer Motion)
-> CSS animation
-> SVG interactions and microinteractions
-
-Tooling and DX:
-> Node.js, pnpm
-> Vite, Vitest
-> Vercel, AWS
-> GitHub Actions, CI/CD
-> Cursor, Claude Code CLI
-
-Data and APIs:
-> Zod
-> TanStack Query, SWR
-> RESTful APIs and webhooks
-> API Routes
-> Postgres
-> MCP servers
-
-Architecture:
-> Component library architecture
-> Design system and token governance
-> Cross brand integration
-> Documentation and handoff pipelines
+I build the glue between Figma and production. Tight APIs, automated
+pipelines, zero drift. Systems that hold up long after launch.
 ```
 
-```shell
-$ projects --shipped
+```
+❯ cat stack.json
 ```
 
-- 🧩 [@figma-vars/hooks](https://github.com/marklearst/figma-vars-hooks)
-  → React hooks for Figma Variables
-- ♿ [a11y-companion-widget](https://github.com/marklearst/a11y-companion-widget)
-  → Figma widget for real accessibility roles
-- 🧮 [diabetic-utils](https://github.com/marklearst/diabetic-utils)
-  → Clinical glucose + A1C utils in TypeScript
-- 📋 [variables-contract](https://github.com/marklearst/variables-contract)
-  → Design variables specification and governance standard. DTCG 2025.10 compliant
-  
-```shell
-$ projects --building
+```json
+{
+  "ui": ["React 19", "TypeScript", "Next.js", "TanStack", "Tailwind"],
+  "systems": ["Storybook", "Figma Variables", "Design Tokens", "MDX"],
+  "ai": ["Claude Code", "Cursor", "Agentic Workflows", "Subagents", "MCP"],
+  "quality": ["WCAG 2.2 AA", "Playwright", "Vitest", "CI Gates"],
+  "standards": ["DTCG", "VDS", "Semantic Versioning"]
+}
 ```
 
-- ⌚ glucoseiq - private
-  → Real-time CGM app for Apple Watch (SwiftUI)
-
-```shell
-$ hireme
-> open to opportunities
+```
+❯ cat ai-workflow.md
 ```
 
-```shell
-$ focus --current
-> shipping motion-driven React components designers actually want to use
-> building the glue between design and code (no handoff headaches)
-> creating systems that last after handoff, not just launch day
+```markdown
+I develop with agentic workflows. Claude Code for architecture and
+validation, Cursor for implementation. Subagent orchestration,
+CLAUDE.md guardrails, MCP servers for context.
+
+Shipped this portfolio, component libraries, and OSS tooling using
+this stack. 60%+ faster iteration. The future is hybrid.
 ```
 
-```shell
-$ contact --direct
-🌐 marklearst.com
-👨🏻‍💻 linkedin.com/in/marklearst
-📬 github@marklearst.com
-🐙 github.com/marklearst
+```
+❯ cat oss.json
 ```
 
-```md
-# Code > Vibes
-# Motion > Gimmicks
-# Systems > One-offs
+```json
+{
+  "a11y-companion": "Figma widget · 200+ users · WCAG 2.2 tooltips",
+  "figmavars-hooks": "React 19 hooks · Figma Variables API · 100% coverage",
+  "diabetic-utils": "TypeScript · glucose/A1C analytics · medical-grade",
+  "variable-design-standard": "Token governance spec · DTCG-compliant"
+}
+```
 
-No hype. Just shipping.
+```
+❯ cat status.txt
+```
+
+```
+🟢 Open to remote full-time roles
+   Design Systems • DX Tooling • Staff+ IC
+
+   React • TypeScript • Next.js • Storybook • Design Tokens
+   Figma • WCAG • Claude Code • Cursor • Agentic Workflows
+```
+
+```
+❯ cat links.md
+```
+
+```markdown
+→ Portfolio: (marklearst.com
+→ LinkedIn: linkedin.com/in/marklearst
+→ VDS Spec: variable-design-standard.vercel.app
+```
